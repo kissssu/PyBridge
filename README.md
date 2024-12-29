@@ -8,7 +8,7 @@
 - **Customizable**: Easily adapt the IP address, port, or logic to fit your needs.
 - **Lightweight**: Minimal dependencies and straightforward implementation.
 
-## Files
+## Files 
 
 ```server.py```
 - Connects to a listening client.
